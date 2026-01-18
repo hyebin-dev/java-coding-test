@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.iml
+
+# Build outputs
+out/
+build/
+target/
+
+# Gradle
+.gradle/
+
+# Logs / temp
+*.log
+*.tmp
+
+# local-only (do not commit)
+_private/
