@@ -1,0 +1,15 @@
+/*
+[문제명] : 두 수의 차 구하기
+[레벨] : lv0
+[링크] : https://school.programmers.co.kr/learn/courses/30/lessons/120803
+
+[Key] : Arithmetic
+[Complexity] : Time O(1) / Memory O(1)
+[Pitfall] : 없음(그대로 빼기)
+[Tags] : math, implementation
+*/
+class Solution {
+    public int solution(int num1, int num2) {
+        return num1 - num2;
+    }
+}
